@@ -31,8 +31,8 @@ The following assets were used in this project:
 4. **Car Controller and Unit Testing**: Developing a car controller for the forklift proved difficult, especially with unit testing, as accurately simulating physics and controls in an AR environment added complexity to the process.
 
 ## Screenshots
-![Screenshot 1](Screenshots/screenshot1.png)
-![Screenshot 2](Screenshots/screenshot2.png)
+![Screenshot 1](Screenshots/Screenshot1.png)
+![Screenshot 2](Screenshots/Screenshot2.png)
 
 ## Scripts
 Refer to the `Scripts/` folder for implementation details.
