@@ -30,6 +30,9 @@ The following assets were used in this project:
 3. **Forklift Update Method Delay**: Managed to resolve the delay in the forklift's movement by adjusting the Update method, ensuring smoother and more responsive controls.
 4. **Car Controller and Unit Testing**: Developing a car controller for the forklift proved difficult, especially with unit testing, as accurately simulating physics and controls in an AR environment added complexity to the process.
 
+## Future Plans
+- Integrate XR features for a more immersive and realistic industrial-level simulation, enhancing the forklift's interaction with real-world environments.
+
 ## Screenshots
 ![Screenshot 1](Screenshots/Screenshot1.png)
 ![Screenshot 2](Screenshots/Screenshot2.png)
