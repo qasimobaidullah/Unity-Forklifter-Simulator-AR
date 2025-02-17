@@ -40,9 +40,6 @@ The following assets were used in this project:
 ## Scripts
 Refer to the `Scripts/` folder for implementation details.
 
-## Play the Game
-Try the game on **Itch.io**: [Insert your itch.io link here]
-
 ## License
 This project is open-source. Make sure to check individual asset licenses before distribution.
 
